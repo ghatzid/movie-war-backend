@@ -16,10 +16,14 @@ ActiveRecord::Schema.define(version: 2019_09_05_205700) do
   enable_extension "plpgsql"
 
   create_table "cards", force: :cascade do |t|
-    t.string "name"
+    t.string "tconst"
+    t.string "title"
     t.integer "year"
+    t.integer "runtime"
     t.string "genre"
+    t.string "director"
     t.float "rating"
+    t.integer "num_votes"
     t.string "img_url"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false

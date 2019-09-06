@@ -1,0 +1,26 @@
+{
+  "files.exclude": {
+    "db/.DS_Store": true,
+    "app/controllers/api/.DS_Store": true,
+    "**/.DS_Store": true,
+    "**/.DS_Store.*": true,
+    "app/mailers": true,
+    "app/jobs": true,
+    "app/models/concerns": true,
+    "lib": true,
+    "log": true,
+    "app/controllers/concerns": true,
+    "app/views": true,
+    "bin": true,
+    "config/initializers": true,
+    "config/locales": true,
+    "storage": true,
+    "app/channels": true,
+    "config/master.key": true,
+    "config/spring.rb": true,
+    "config/storage.yml": true,
+    "public": true,
+    "tmp": true,
+    "vendor": true
+  }
+}
