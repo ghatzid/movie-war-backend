@@ -3,7 +3,12 @@ class Api::V1::CardsController < ApplicationController
     cards = Card.all
     render json: cards
   end
-
+  
+  def random
+    random_cards = Card.find(Card.pluck(:id).sample(params[:num].to_i))
+    render json: random_cards
+  end
+  
   def show
     card = Card.find(params[:id])
     render json: card
@@ -44,4 +49,7 @@ class Api::V1::CardsController < ApplicationController
         img_url: params[:img_url])
     render json: card  
   end
+
+ 
+  
 end
