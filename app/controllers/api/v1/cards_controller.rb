@@ -14,6 +14,11 @@ class Api::V1::CardsController < ApplicationController
     render json: card
   end 
 
+  def search_title
+    search = Card.where('title LIKE ?', "%#{params[:title]}%")
+      render json: search
+  end 
+
   def destroy
     card = Card.find(params[:id])
     card.delete

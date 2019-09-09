@@ -5,6 +5,7 @@ Rails.application.routes.draw do
     namespace :v1 do
       resources :cards, except:[:show]
       get 'cards/random/:num', to: 'cards#random'
+      get 'cards/search/:title', to: 'cards#search_title'
       resources :users
       resources :decks
     end
