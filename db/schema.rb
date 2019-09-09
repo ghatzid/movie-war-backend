@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2019_09_05_205700) do
+ActiveRecord::Schema.define(version: 2019_09_08_170105) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -29,6 +29,19 @@ ActiveRecord::Schema.define(version: 2019_09_05_205700) do
     t.datetime "updated_at", null: false
   end
 
+  create_table "decks", force: :cascade do |t|
+    t.string "name"
+  end
+
+  create_table "libraries", force: :cascade do |t|
+    t.bigint "deck_id"
+    t.bigint "card_id"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["card_id"], name: "index_libraries_on_card_id"
+    t.index ["deck_id"], name: "index_libraries_on_deck_id"
+  end
+
   create_table "users", force: :cascade do |t|
     t.string "name"
     t.integer "wins"
@@ -36,4 +49,6 @@ ActiveRecord::Schema.define(version: 2019_09_05_205700) do
     t.datetime "updated_at", null: false
   end
 
+  add_foreign_key "libraries", "cards"
+  add_foreign_key "libraries", "decks"
 end

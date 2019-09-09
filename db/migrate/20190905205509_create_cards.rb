@@ -10,7 +10,6 @@ class CreateCards < ActiveRecord::Migration[5.2]
       t.float :rating
       t.integer :num_votes
       t.string :img_url
-
       t.timestamps
     end
   end

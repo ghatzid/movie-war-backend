@@ -19,6 +19,8 @@ gem 'pg'
 # gem 'postgres-pr'
 
 gem 'active_model_serializers', '~> 0.10.0'
+#Rails plugin for a database-independent dump format, data.yml
+# gem 'yaml_db'
 
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'

@@ -1,0 +1,101 @@
+tconst,title,year,runtime,genre,director,rating,num_votes,img_url
+tt0002130,Dante's Inferno,1911,68,"Adventure,Drama,Fantasy",NA,7.0,1954,NA
+tt0002844,Fantômas: In the Shadow of the Guillotine,1913,54,"Crime,Drama",NA,7.0,1833,NA
+tt0003037,Fantomas: The Man in Black,1913,61,"Crime,Drama",NA,7.0,1280,NA
+tt0003419,The Student of Prague,1913,85,"Drama,Fantasy,Horror",NA,6.5,1608,NA
+tt0003643,The Avenging Conscience: or 'Thou Shalt Not Kill',1914,78,"Crime,Drama,Horror",NA,6.5,1034,NA
+tt0003740,Cabiria,1914,148,"Adventure,Drama,History",NA,7.1,2807,NA
+tt0003930,Fantomas: The Mysterious Finger Print,1914,59,"Crime,Drama",NA,7.0,1101,NA
+tt0004181,Judith of Bethulia,1914,61,Drama,NA,6.2,1184,NA
+tt0004707,Tillie's Punctured Romance,1914,82,Comedy,NA,6.3,3145,NA
+tt0004972,The Birth of a Nation,1915,195,"Drama,History,War",NA,6.4,20679,NA
+tt0005078,The Cheat,1915,59,"Drama,Romance",NA,6.6,2185,NA
+tt0005960,The Regeneration,1915,72,"Biography,Crime,Drama",NA,6.9,1035,NA
+tt0006206,Les vampires,1915,421,"Action,Adventure,Crime",NA,7.3,3896,NA
+tt0006333,"20,000 Leagues Under the Sea",1916,105,"Action,Adventure,Sci-Fi",NA,6.2,1425,NA
+tt0006864,Intolerance: Love's Struggle Throughout the Ages,1916,163,"Drama,History",NA,7.8,12995,NA
+tt0008443,The Poor Little Rich Girl,1917,65,"Comedy,Drama,Family",NA,6.7,1219,NA
+tt0008663,A Man There Was,1917,48,"Drama,War",NA,7.4,1362,NA
+tt0008879,The Outlaw and His Wife,1918,136,Drama,NA,7.3,1394,NA
+tt0009369,Mickey,1918,93,"Comedy,Drama",NA,5.9,1034,NA
+tt0009611,Shoulder Arms,1918,45,"Comedy,War",NA,7.3,5290,NA
+tt0009652,Stella Maris,1918,84,Drama,NA,6.7,1316,NA
+tt0009878,Different from the Others,1919,50,"Crime,Drama,History",NA,7.0,1031,NA
+tt0009893,The Oyster Princess,1919,58,Comedy,NA,7.2,1521,NA
+tt0009937,Blind Husbands,1919,99,"Drama,Romance",NA,7.0,1255,NA
+tt0009968,Broken Blossoms,1919,90,"Drama,Romance",NA,7.4,8668,NA
+tt0010040,Daddy-Long-Legs,1919,85,"Comedy,Drama",NA,6.5,1276,NA
+tt0010071,Don't Change Your Husband,1919,71,Comedy,NA,6.7,1095,NA
+tt0010247,Sir Arne's Treasure,1919,122,"Drama,History",NA,7.3,1100,NA
+tt0010281,I Don't Want to Be a Man,1918,45,"Comedy,Romance",NA,6.9,1141,NA
+tt0010307,J'accuse!,1919,166,"Drama,Horror,War",NA,7.7,1287,NA
+tt0010323,The Cabinet of Dr. Caligari,1920,76,"Fantasy,Horror,Mystery",NA,8.1,50688,NA
+tt0010418,Male and Female,1919,116,"Adventure,Drama",NA,7.0,1654,NA
+tt0010600,The Doll,1919,48,"Comedy,Fantasy",NA,7.4,1513,NA
+tt0010806,True Heart Susie,1919,87,"Comedy,Drama,Romance",NA,7.0,1498,NA
+tt0011000,Leaves From Satan's Book,1920,167,Drama,NA,6.7,1022,NA
+tt0011130,Dr. Jekyll and Mr. Hyde,1920,82,"Drama,Horror,Sci-Fi",NA,7.0,4378,NA
+tt0011237,The Golem,1920,91,"Fantasy,Horror",NA,7.2,5844,NA
+tt0011387,The Last of the Mohicans,1920,73,"Action,Adventure,Drama",NA,6.7,1030,NA
+tt0011439,The Mark of Zorro,1920,107,"Adventure,Romance,Western",NA,7.1,1999,NA
+tt0011565,The Penalty,1920,90,"Crime,Drama,Horror",NA,7.4,1862,NA
+tt0011652,The Saphead,1920,77,Comedy,NA,6.2,1326,NA
+tt0011841,Way Down East,1920,145,"Drama,Romance",NA,7.5,4697,NA
+tt0011865,Why Change Your Wife?,1920,90,"Comedy,Drama",NA,6.7,1286,NA
+tt0011870,Within Our Gates,1920,79,"Drama,Romance",NA,6.3,1987,NA
+tt0011909,The Affairs of Anatol,1921,117,"Comedy,Drama",NA,6.6,1187,NA
+tt0012190,The Four Horsemen of the Apocalypse,1921,150,"Drama,Romance,War",NA,7.2,2917,NA
+tt0012349,The Kid,1921,68,"Comedy,Drama,Family",NA,8.3,99873,NA
+tt0012364,The Phantom Carriage,1921,100,"Drama,Fantasy,Horror",NA,8.1,9080,NA
+tt0012494,Destiny,1921,97,"Drama,Fantasy,Thriller",NA,7.7,4631,NA
+tt0012532,Orphans of the Storm,1921,150,"Drama,History,Romance",NA,7.4,4441,NA
+tt0012651,The Haunted Castle,1921,75,"Crime,Drama,Horror",NA,6.3,1253,NA
+tt0012675,The Sheik,1921,86,"Adventure,Drama,Romance",NA,6.4,2941,NA
+tt0012763,Tol'able David,1921,99,Drama,NA,6.8,1678,NA
+tt0012938,Beyond the Rocks,1922,80,"Drama,Romance",NA,6.8,2183,NA
+tt0012952,Blood and Sand,1922,80,"Drama,Romance,Sport",NA,6.4,1169,NA
+tt0013075,Dr. Jack,1922,60,Comedy,NA,7.1,1123,NA
+tt0013086,Dr. Mabuse the Gambler,1922,242,"Crime,Mystery,Thriller",NA,7.9,6729,NA
+tt0013140,Foolish Wives,1922,117,"Drama,Thriller",NA,7.1,2738,NA
+tt0013201,Grandma's Boy,1922,60,"Comedy,Family",NA,7.0,1534,NA
+tt0013257,Häxan,1922,91,"Documentary,Fantasy,Horror",NA,7.7,10408,NA
+tt0013427,Nanook of the North,1922,78,Documentary,NA,7.6,9806,NA
+tt0013442,Nosferatu,1922,94,"Fantasy,Horror",NA,7.9,81725,NA
+tt0013496,Phantom,1922,125,"Drama,Fantasy,Romance",NA,6.9,1416,NA
+tt0013556,Robin Hood,1922,143,"Adventure,Family,Romance",NA,7.2,1869,NA
+tt0013626,The Smiling Madame Beudet,1923,54,Drama,NA,6.7,1822,NA
+tt0014029,The Extra Girl,1923,68,"Comedy,Romance",NA,6.6,1034,NA
+tt0014109,The Saga of Gösta Berling,1924,183,"Drama,Romance",NA,7.1,1010,NA
+tt0014142,The Hunchback of Notre Dame,1923,133,"Drama,Horror,Romance",NA,7.3,4371,NA
+tt0014341,Our Hospitality,1923,65,"Comedy,Romance,Thriller",NA,7.8,9270,NA
+tt0014358,The Pilgrim,1923,47,Comedy,NA,7.4,3822,NA
+tt0014417,The Wheel,1923,273,Drama,NA,7.4,1635,NA
+tt0014429,Safety Last!,1923,74,"Action,Comedy,Thriller",NA,8.1,16621,NA
+tt0014532,The Ten Commandments,1923,136,"Biography,Drama,Fantasy",NA,6.8,1753,NA
+tt0014538,Three Ages,1923,63,Comedy,NA,7.1,3702,NA
+tt0014586,Waxworks,1924,65,"Fantasy,Horror",NA,6.7,1480,NA
+tt0014611,Why Worry?,1923,63,"Adventure,Comedy,Family",NA,7.4,1456,NA
+tt0014624,A Woman of Paris: A Drama of Fate,1923,82,"Drama,Romance",NA,7.0,4375,NA
+tt0014646,Aelita: Queen of Mars,1924,111,"Adventure,Drama,Fantasy",NA,6.6,2158,NA
+tt0014945,Girl Shy,1924,87,"Comedy,Romance",NA,7.7,2886,NA
+tt0014972,He Who Gets Slapped,1924,95,"Drama,Romance,Thriller",NA,7.8,2731,NA
+tt0015002,Hot Water,1924,60,Comedy,NA,7.2,1152,NA
+tt0015016,The Iron Horse,1924,150,"History,Romance,Western",NA,7.2,1774,NA
+tt0015064,The Last Laugh,1924,77,Drama,NA,8.1,11225,NA
+tt0015136,Michael,1924,93,"Drama,Romance",NA,7.1,1429,NA
+tt0015163,The Navigator,1924,59,"Action,Comedy,Romance",NA,7.8,8285,NA
+tt0015174,Die Nibelungen: Kriemhild's Revenge,1924,129,"Adventure,Drama,Fantasy",NA,8.0,3597,NA
+tt0015175,Die Nibelungen: Siegfried,1924,143,"Adventure,Drama,Fantasy",NA,8.1,4735,NA
+tt0015202,The Hands of Orlac,1924,92,"Crime,Horror,Mystery",NA,7.0,1956,NA
+tt0015324,Sherlock Jr.,1924,45,"Action,Comedy,Romance",NA,8.2,34233,NA
+tt0015361,Strike,1925,82,Drama,NA,7.6,6346,NA
+tt0015400,The Thief of Bagdad,1924,155,"Adventure,Family,Fantasy",NA,7.8,5073,NA
+tt0015532,The Adventures of Prince Achmed,1926,81,"Adventure,Animation,Fantasy",NA,7.8,4790,NA
+tt0015624,The Big Parade,1925,151,"Drama,Romance,War",NA,7.9,5802,NA
+tt0015648,Battleship Potemkin,1925,75,"Drama,History",NA,8.0,48678,NA
+tt0015768,Master of the House,1925,111,Drama,NA,7.1,1523,NA
+tt0015772,The Eagle,1925,73,"Action,Comedy,Drama",NA,6.6,1568,NA
+tt0015841,The Freshman,1925,77,"Comedy,Family,Romance",NA,7.5,4626,NA
+tt0015842,The Joyless Street,1925,125,Drama,NA,7.2,1283,NA
+tt0015863,Go West,1925,69,"Comedy,Western",NA,7.2,3452,NA
+tt0015864,The Gold Rush,1925,95,"Adventure,Comedy,Drama",NA,8.2,90856,NA
