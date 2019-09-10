@@ -5,7 +5,13 @@ class Api::V1::CardsController < ApplicationController
   end
   
   def random
-    random_cards = Card.find(Card.pluck(:id).sample(params[:num].to_i))
+    sr = SimpleRandom.new
+    deck_size = params[:num].to_i
+    random_cards = []
+    deck_size.times do 
+      sr.set_seed
+      random_cards.push(Card.find(sr.uniform(1, 29203).round))
+     end
     render json: random_cards
   end
   

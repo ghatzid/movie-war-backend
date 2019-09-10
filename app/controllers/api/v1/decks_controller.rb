@@ -28,5 +28,13 @@ class Api::V1::DecksController < ApplicationController
         name: params[:name])
     render json: deck  
   end
+
+  # def add_card
+  #   deck = Deck.find(params[:id])
+  #   card = Card.find(params[:id])
+  #   deck.cards.push(card)
+  #   render json: add 
+  # end
+  
 end
 

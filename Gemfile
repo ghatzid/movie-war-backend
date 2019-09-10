@@ -19,8 +19,11 @@ gem 'pg'
 # gem 'postgres-pr'
 
 gem 'active_model_serializers', '~> 0.10.0'
-#Rails plugin for a database-independent dump format, data.yml
-# gem 'yaml_db'
+# Rails plugin for a database-independent dump format, data.yml
+
+# Better random number generation
+# gem 'true-random'
+gem 'simple-random', '~> 1.0.0'
 
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
